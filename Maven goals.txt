@@ -1,0 +1,4 @@
+mvn compile
+mvn package
+mvn test
+mvn javadoc:javadoc
